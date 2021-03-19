@@ -1,6 +1,6 @@
 # dtmoney
 
-Aplicação de Controle de Finanças com Entradas e Saídas desenvolvida com ReactJS (Components, Context API e Hooks).
+dtmoney é uma aplicação de Controle de Finanças com Entradas e Saídas desenvolvida com ReactJS (Components, Context API e Hooks).
 Nessa aplicação foi utilizado o MirageJS para inserir novas transações (entradas ou saídas), ele é uma biblioteca de simulação de API que permite testar nossa aplicação antes de ter um back-end.
 
 ## Preview Desktop
