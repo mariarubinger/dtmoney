@@ -1,7 +1,7 @@
 # dtmoney
 
 Aplicação de controle de finanças com entradas e saídas desenvolvida com ReactJS (Components, Context API e Hooks).
-Nessa aplicação foi utilizado o MirageJS para inserir novas transações (entrada ou saída), ele funciona como um banco de dados interno. O MirageJS funciona para testarmos nossa aplicação antes de termos um back-end pronto.
+Nessa aplicação foi utilizado o MirageJS para inserir novas transações (entradas ou saídas), ele é uma biblioteca de simulação de API que permite testar nossa aplicação antes de ter um back-end.
 
 ## Preview Desktop
 
