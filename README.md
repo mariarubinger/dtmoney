@@ -22,11 +22,7 @@ Nessa aplicação foi utilizado o MirageJS para inserir novas transações (entr
 ## Setup
 
 ```bash
-yarn
-# or
-yarn start
+yarn && yarn start
 ```
 
-
 Aplicação desenvolvida durante o Bootcamp Ignite da Rocketseat - Trilha ReactJS.
-
